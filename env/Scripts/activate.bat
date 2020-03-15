@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Dropbox\Programa Bit\Primer Proyecto\Feedlot_BitProyect\env
+set VIRTUAL_ENV=C:\Users\mbenavides\Documents\GitHub\Feedlot_Bit\env
 
 if not defined PROMPT set PROMPT=$P$G
 
